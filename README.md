@@ -22,8 +22,9 @@
 
 
 
+![image](https://github.com/thaychansy/pymaceuticals/assets/161902555/8bd5248c-c4fc-4197-8293-223c47428a92)
 
-![image](https://github.com/thaychansy/pymaceuticals/assets/161902555/c5b2ee4d-44d6-48c1-8ba8-167337098124)
+
 
 
 You've just joined Pymaceuticals, Inc., a new pharmaceutical company that specializes in anti-cancer medications. Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
