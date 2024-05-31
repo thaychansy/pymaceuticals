@@ -20,8 +20,8 @@
 
 ## About The Project
 
-  
-### Pymaceuticals Inc.
+
+
 
 ![image](https://github.com/thaychansy/pymaceuticals/assets/161902555/c5b2ee4d-44d6-48c1-8ba8-167337098124)
 
