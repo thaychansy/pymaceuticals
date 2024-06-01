@@ -208,7 +208,7 @@ Please visit my Portfolio Page: thaychansy.github.io (https://thaychansy.github.
 
 
 
-Project Link: [thaychansy/python-challenge: Module 3 Challenge (github.com)](https://github.com/thaychansy/python-challenge)
+Project Link: [thaychansy/pymaceuticals: Module 5 Challenge (github.com)](https://github.com/thaychansy/pymaceuticals)
   
 
 <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
