@@ -6,7 +6,7 @@
 
 
 
-  <summary>Table of Contents</summary>
+Table of Contents
 <ol>
 <li><a href="#about-the-project">About The Project</a></li>
 <li><a href="#built-with-python-and-jupyter-notebook-framework">Built With Python and Jupyter Notebook</a></li>
@@ -208,7 +208,7 @@ Please visit my Portfolio Page: thaychansy.github.io (https://thaychansy.github.
 
 
 
-Project Link: [thaychansy/pymaceuticals: Module 5 Challenge (github.com)](https://github.com/thaychansy/pymaceuticals)
+Project Link: [thaychansy/pymaceuticals (github.com)](https://github.com/thaychansy/pymaceuticals)
   
 
 <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
