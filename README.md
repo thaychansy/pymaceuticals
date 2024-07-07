@@ -208,7 +208,7 @@ Please visit my Portfolio Page: [thaychansy.github.io](https://thaychansy.github
 
 
 
-Project Link: [thaychansy/pymaceuticals (github.com)](https://github.com/thaychansy/pymaceuticals)
+Project Link: [thaychansy/pymaceuticals](https://github.com/thaychansy/pymaceuticals)
   
 
 <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
