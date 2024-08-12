@@ -22,7 +22,7 @@ Table of Contents
 
 
 
-![image](https://github.com/thaychansy/pymaceuticals/assets/161902555/8bd5248c-c4fc-4197-8293-223c47428a92)
+<kbd> ![image](https://github.com/thaychansy/pymaceuticals/assets/161902555/8bd5248c-c4fc-4197-8293-223c47428a92) </kbd>
 
 
 
